@@ -14,5 +14,13 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('frontend.index');
 });
+
+Route::get('/about-us', [IndexController::class, 'aboutUs'])->name('about-us');
+
+Route::get('/portfolio', [IndexController::class, 'portfolio'])->name('portfolio');
+
+Route::get('/blog/home', [IndexController::class, 'blogHome'])->name('blog-home');
+
+Route::get('/contact', [IndexController::class, 'contact'])->name('contact');
