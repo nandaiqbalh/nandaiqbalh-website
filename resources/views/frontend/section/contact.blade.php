@@ -42,7 +42,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-9">
+                        {{-- <div class="col-lg-9">
                             <form class="row contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
                                 <div class="col-md-6">
                                     <div class="form-group">
@@ -64,7 +64,7 @@
                                     <button type="submit" value="submit" class="btn submit_btn">Send Message</button>
                                 </div>
                             </form>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </section>
