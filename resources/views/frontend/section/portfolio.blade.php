@@ -38,19 +38,19 @@
     </div>
     <div class="container">
         <div class="gallery_f_inner row imageGallery1">
-            {{-- <div class="col-lg-4 col-md-4 col-sm-6 mobile">
+            <div class="col-lg-4 col-md-4 col-sm-6 mobile">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
-                        <img class="img-fluid" src="{{asset('frontend/img/gallery/project-1.jpg')}}" alt="">
-                        <a class="light" href="{{asset('frontend/img/gallery/project-1.jpg')}}"><img src="img/gallery/icon.png" alt=""></a>
+                        <img class="img-fluid" src="{{asset('frontend/img/dice_demo.gif')}}" alt="">
+                        <a class="light" href="{{asset('frontend/img/dice_demo.gif')}}"><img src="{{asset('frontend/img/dice_demo.gif')}}" alt=""></a>
                     </div>
                     <div class="g_item_text">
-                        <h4>3D Helmet Design</h4>
-                        <p><a href="https://www.instagram.com/nandaiqbalh/">Visit Github Page</a></p>
+                        <h4>Guess the Dice - Android App</h4>
+                        <p><a href="https://github.com/nandaiqbalh/guess-the-dice">Visit Github Page</a></p>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 website">
+            </div> 
+            {{-- <div class="col-lg-4 col-md-4 col-sm-6 website">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
                         <img class="img-fluid" src="{{asset('frontend/img/gallery/project-2.jpg')}}" alt="">
