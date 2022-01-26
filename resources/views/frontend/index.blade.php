@@ -407,11 +407,23 @@
                                 <a class="light" href="{{asset('frontend/img/dice_demo.gif')}}"><img src="{{asset('frontend/img/dice_demo.gif')}}" alt=""></a>
                             </div>
                             <div class="g_item_text">
-                                <h4>Guess the Dice - Android App</h4>
+                                <h4>Guess the Dice</h4>
                                 <p><a href="https://github.com/nandaiqbalh/guess-the-dice">Visit Github Page</a></p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 mobile">
+                        <div class="h_gallery_item">
+                            <div class="g_img_item">
+                                <img class="img-fluid" src="{{asset('frontend/img/demo/earthweather/earthweather_demo.gif')}}" alt="">
+                                <a class="light" href="{{asset('frontend/img/demo/earthweather/earthweather_demo.gif')}}"><img src="{{asset('frontend/img/demo/earthweather/earthweather_demo.gif')}}" alt=""></a>
+                            </div>
+                            <div class="g_item_text">
+                                <h4>EarthWeather</h4>
+                                <p><a href="https://github.com/nandaiqbalh/earth-weather">Visit Github Page</a></p>
+                            </div>
+                        </div>
+                    </div>  
                      {{-- <div class="col-lg-4 col-md-4 col-sm-6 website">
                          <div class="h_gallery_item">
                              <div class="g_img_item">
