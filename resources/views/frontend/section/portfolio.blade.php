@@ -63,6 +63,15 @@
                     </div>
                 </div>
             </div> 
+            <div class="col-lg-4 col-md-4 col-sm-6 uiux">
+                <div class="h_gallery_item">
+                        <iframe width="360" height="640" src="https://xd.adobe.com/embed/a24f7956-7daa-480a-8dfe-b3405ee2241b-f71c/" frameborder="0" allowfullscreen></iframe>                            
+                    <div class="g_item_text">
+                        <h4>NontonMovie</h4>
+                        <p><a href="https://xd.adobe.com/view/a24f7956-7daa-480a-8dfe-b3405ee2241b-f71c/">Visit AdobeXD Page</a></p>
+                    </div>
+                </div>
+            </div>  
             {{-- <div class="col-lg-4 col-md-4 col-sm-6 website">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
