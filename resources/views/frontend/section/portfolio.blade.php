@@ -67,8 +67,8 @@
                 <div class="h_gallery_item">
                         <iframe width="360" height="640" src="https://xd.adobe.com/embed/a24f7956-7daa-480a-8dfe-b3405ee2241b-f71c/" frameborder="0" allowfullscreen></iframe>                            
                     <div class="g_item_text">
-                        <h4>NontonMovie</h4>
-                        <p><a href="https://xd.adobe.com/view/a24f7956-7daa-480a-8dfe-b3405ee2241b-f71c/">Visit AdobeXD Page</a></p>
+                        <h4><a href="https://xd.adobe.com/view/a24f7956-7daa-480a-8dfe-b3405ee2241b-f71c/">NontonMovie</a></h4>
+                        <p>You can do this UI/UX Design simulation.</p>
                     </div>
                 </div>
             </div>  
