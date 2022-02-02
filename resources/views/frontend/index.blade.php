@@ -142,7 +142,7 @@
          <!--================End Welcome Area =================-->
          
          <!--================My Tabs Area =================-->
-         <section class="mytabs_area p_120">
+         {{-- <section class="mytabs_area p_120">
              <div class="container">
                  <div class="tabs_inner">
                      <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -345,7 +345,7 @@
                      </div>
                  </div>
              </div>
-         </section>
+         </section> --}}
          <!--================End My Tabs Area =================-->
          
          <!--================Feature Area =================-->
