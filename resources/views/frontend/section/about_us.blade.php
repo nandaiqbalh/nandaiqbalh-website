@@ -30,22 +30,26 @@
                                  <img src="{{asset('frontend/img/personal.png')}}" alt="">
                              </div>
                              <div class="media-body">
-                                 <div class="personal_text">
-                                     <h6>Hello Everybody, i am</h6>
-                                     <h3>Nanda Iqbal Hanafi</h3>
-                                     <h4>Mobile Developer</h4>
-                                     <ul class="list basic_info">
-                                         <li><a href="#"><i class="lnr lnr-calendar-full"></i> 31st December, 2001</a></li>
-                                         <li><a href="https://wa.me/6283101487741"><i class="lnr lnr-phone-handset"></i> 083101487741</a></li>
-                                         <li><a href="mailto:nandaiqbalhanafii@gmail.com"><i class="lnr lnr-envelope"></i> nandaiqbalhanafii@gmail.com</a></li>
-                                         <li><a href="#"><i class="lnr lnr-home"></i> Kulon Progo, Indonesia</a></li>
-                                     </ul>
-                                     <ul class="list personal_social">
-                                         <li><a href="https://www.instagram.com/nandaiqbalh/"><i class="fa fa-instagram"></i></a></li>
-                                         <li><a href="https://twitter.com/nandaiqbalh"><i class="fa fa-twitter"></i></a></li>
-                                         <li><a href="https://www.linkedin.com/in/nanda-iqbal-hanafi-b2a4031bb/"><i class="fa fa-linkedin"></i></a></li>
-                                     </ul>
-                                 </div>
+                                <div class="personal_text">
+                                    <h6>Hello, i am</h6>
+                                    <h3>Nanda Iqbal Hanafi</h3>
+                                    <h4>Software Development Enthusiast</h4>
+                                    <ul class="list basic_info">
+                                        <li><a href="#"><i class="lnr lnr-calendar-full"></i> 31st December, 2001</a></li>
+                                        <li><a href="https://wa.me/6283101487741"><i class="lnr lnr-phone-handset"></i> 083101487741</a></li>
+                                        <li><a href="mailto:nandaiqbalhanafii@gmail.com"><i class="lnr lnr-envelope"></i> nandaiqbalhanafii@gmail.com</a></li>
+                                        <li><a href="#"><i class="lnr lnr-home"></i> Kulon Progo, Indonesia</a></li>
+                                    </ul>
+                                    <ul class="list personal_social">
+                                       <li><a href="https://github.com/nandaiqbalh"><i class="fa fa-github"></i></a></li>
+                                       <li><a href="https://www.linkedin.com/in/nanda-iqbal-hanafi-b2a4031bb/"><i class="fa fa-linkedin"></i></a></li>
+                                       <li><a href="https://medium.com/@nandaiqbalh/"><i class="fa fa-medium"></i></a></li> 
+                                       <li><a href="https://www.instagram.com/nandaiqbalh/"><i class="fa fa-instagram"></i></a></li>
+                                        <li><a href="https://twitter.com/nandaiqbalh"><i class="fa fa-twitter"></i></a></li>
+                                        <li class="ftco-animate"><a href="mailto:nandaiqbalhanafii@gmail.com"><span class="fa fa-paper-plane"></span></a></li>
+
+                                    </ul>
+                                </div>
                              </div>
                          </div>
                      </div>
@@ -59,30 +63,31 @@
              <div class="container">
                  <div class="row welcome_inner">
                      <div class="col-lg-6">
-                         <div class="welcome_text">
-                             <h4>About Myself</h4>
-                             <p>I am 20 years old and a second-year student of Computer Engineering at Diponegoro University, Indonesia. I like to make beautiful things with lines of code. I'm currently learning many things, especially to make my dream come true, which is to become a Professional Mobile Developer.</p>
-                             <div class="row">
-                                 <div class="col-md-4">
-                                     <div class="wel_item">
-                                         <i class="lnr lnr-heart-pulse"></i>
-                                         <h4>Sports</h4>
-                                     </div>
-                                 </div>
-                                 <div class="col-md-4">
-                                     <div class="wel_item">
-                                         <i class="lnr lnr-book"></i>
-                                         <h4>Books</h4>
-                                     </div>
-                                 </div>
-                                 <div class="col-md-4">
-                                     <div class="wel_item">
-                                         <i class="lnr lnr-film-play"></i>
-                                         <h4>Movies</h4>
-                                     </div>
-                                 </div>
-                             </div>
-                         </div>
+                        <div class="welcome_text">
+                            <h4>About Myself</h4>
+                            <p>A Software Development Enthusiast who likes to explore things || Lifelong Learner ^^
+                                <br><br> I am 20 years old and a second-year student of Computer Engineering at Diponegoro University, Indonesia. I like to make beautiful things with lines of code. I'm currently learning many things, especially to make my dream come true, which is to become a Professional Mobile Developer.</p>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="wel_item">
+                                        <i class="lnr lnr-heart-pulse"></i>
+                                        <h4>Sports</h4>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="wel_item">
+                                        <i class="lnr lnr-book"></i>
+                                        <h4>Books</h4>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="wel_item">
+                                        <i class="lnr lnr-film-play"></i>
+                                        <h4>Movies</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                      </div>
                      <div class="col-lg-6">
                          <div class="tools_expert">

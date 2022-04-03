@@ -8,7 +8,7 @@
                     </div>
                     <p>Keep Growing!!</p>
                     <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> Nanda Iqbal Hanafi | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> Nanda Iqbal Hanafi | This website is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="http://nandaiqbalh.herokuapp.com/" target="_blank">Nanda</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                 </aside>
             </div>
@@ -21,8 +21,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> Nanda
                     <ul class="list">
                         <li class="ftco-animate"><a href="https://github.com/nandaiqbalh"><span class="fa fa-github"></span></a></li>
                         <li class="ftco-animate"><a href="https://www.linkedin.com/in/nanda-iqbal-hanafi-b2a4031bb/"><span class="fa fa-linkedin"></span></a></li>
-                        <li class="ftco-animate"><a href="https://twitter.com/nandaiqbalh"><span class="fa fa-twitter"></span></a></li>
+                        <li><a href="https://medium.com/@nandaiqbalh/"><i class="fa fa-medium"></i></a></li> 
                         <li class="ftco-animate"><a href="https://www.instagram.com/nandaiqbalh/"><span class="fa fa-instagram"></span></a></li>
+                        <li class="ftco-animate"><a href="https://twitter.com/nandaiqbalh"><span class="fa fa-twitter"></span></a></li>
                         <li class="ftco-animate"><a href="mailto:nandaiqbalhanafii@gmail.com"><span class="fa fa-paper-plane"></span></a></li>
                     </ul>
                 </aside>
