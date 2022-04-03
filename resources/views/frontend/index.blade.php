@@ -26,7 +26,6 @@
                                         <li><a href="https://www.linkedin.com/in/nanda-iqbal-hanafi-b2a4031bb/"><i class="fa fa-linkedin"></i></a></li>
                                         <li><a href="https://medium.com/@nandaiqbalh/"><i class="fa fa-medium"></i></a></li> 
                                         <li><a href="https://www.instagram.com/nandaiqbalh/"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="https://twitter.com/nandaiqbalh"><i class="fa fa-twitter"></i></a></li>
                                         <li class="ftco-animate"><a href="mailto:nandaiqbalhanafii@gmail.com"><span class="fa fa-paper-plane"></span></a></li>
  
                                     </ul>
