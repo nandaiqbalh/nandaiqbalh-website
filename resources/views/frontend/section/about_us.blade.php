@@ -27,7 +27,7 @@
                      <div class="banner_content">
                          <div class="media">
                              <div class="d-flex">
-                                 <img src="{{asset('frontend/img/personal.png')}}" alt="">
+                                 <img src="{{asset('frontend/img/personal3.png')}}" alt="">
                              </div>
                              <div class="media-body">
                                 <div class="personal_text">
