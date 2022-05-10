@@ -1,23 +1,6 @@
 @extends('frontend.frontend_master')
 
 @section('main_content')
-            <!--================Home Banner Area =================-->
-            <section class="banner_area">
-                <div class="box_1620">
-                    <div class="banner_inner d-flex align-items-center">
-                        <div class="container">
-                            <div class="banner_content text-center">
-                                <h2>Contact Us</h2>
-                                <div class="page_link">
-                                    <a href="{{url('/')}}">Home</a>
-                                    <a href="{{route('contact')}}">Contact Us</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--================End Home Banner Area =================-->
             
             <!--================Contact Area =================-->
             <section class="contact_area p_120">

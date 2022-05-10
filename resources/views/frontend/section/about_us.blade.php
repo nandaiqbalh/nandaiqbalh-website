@@ -2,24 +2,6 @@
 
 @section('main_content')
      <!--================Home Banner Area =================-->
-     <section class="banner_area">
-        <div class="box_1620">
-            <div class="banner_inner d-flex align-items-center">
-                <div class="container">
-                    <div class="banner_content text-center">
-                        <h2>About Us</h2>
-                        <div class="page_link">
-                            <a href="{{url('/')}}">Home</a>
-                            <a href="({{route('about-us')}})">About Us</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--================End Home Banner Area =================-->
-    
-    
                <!--================Home Banner Area =================-->
                <section class="home_banner_area">
                 <div class="container box_1620">
