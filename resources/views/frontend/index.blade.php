@@ -63,7 +63,7 @@
                                  <div class="col-md-4">
                                      <div class="wel_item">
                                          <i class="lnr lnr-film-play"></i>
-                                         <h4>Movies</h4>
+                                         <h4>Photos</h4>
                                      </div>
                                  </div>
                              </div>
@@ -184,7 +184,7 @@
                              <div class="g_item_text">
                                  <a href="https://github.com/nandaiqbalh/aksara-book-store"><h4>Backend Website</h4></a>
                                  <p>Learning Project | Still on development</p>
-                                 <p><a href="https://github.com/nandaiqbalh/earth-weather">Visit Github Page</a></p>
+                                 <p><a href="https://github.com/nandaiqbalh/aksara-book-store">Visit Github Page</a></p>
 
                              </div>
                          </div>

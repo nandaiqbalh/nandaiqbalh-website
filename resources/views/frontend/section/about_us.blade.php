@@ -64,7 +64,7 @@
                                 <div class="col-md-4">
                                     <div class="wel_item">
                                         <i class="lnr lnr-film-play"></i>
-                                        <h4>Movies</h4>
+                                        <h4>Photos</h4>
                                     </div>
                                 </div>
                             </div>
