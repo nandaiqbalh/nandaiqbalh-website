@@ -153,7 +153,19 @@
                                 <p><a href="https://github.com/nandaiqbalh/earth-weather">Visit Github Page</a></p>
                             </div>
                         </div>
-                    </div>  
+                    </div> 
+                    <div class="col-lg-4 col-md-4 col-sm-6 mobile">
+                        <div class="h_gallery_item">
+                            <div class="g_img_item">
+                                <img class="img-fluid" src="{{asset('frontend/img/demo/android-curious-minds/curious-minds.gif')}}" alt="">
+                                <a class="light" href="{{asset('frontend/img/demo/android-curious-minds/curious-minds.gif')}}"><img src="{{asset('frontend/img/demo/android-curious-minds/curious-minds.gif')}}" alt=""></a>
+                            </div>
+                            <div class="g_item_text">
+                                <h4>Curious Minds Book Store</h4>
+                                <p><a href="https://github.com/nandaiqbalh/book-store-tugas-ppb">Visit Github Page</a></p>
+                            </div>
+                        </div>
+                    </div>   
                     <div class="col-lg-4 col-md-4 col-sm-6 uiux">
                         <div class="h_gallery_item">
                                 <iframe width="360" height="640" src="https://xd.adobe.com/embed/a24f7956-7daa-480a-8dfe-b3405ee2241b-f71c/" frameborder="0" allowfullscreen></iframe>                            
@@ -163,19 +175,21 @@
                             </div>
                         </div>
                     </div>  
-                     {{-- <div class="col-lg-4 col-md-4 col-sm-6 website">
+                    <div class="col-lg-4 col-md-4 col-sm-6 website">
                          <div class="h_gallery_item">
                              <div class="g_img_item">
-                                 <img class="img-fluid" src="{{asset('frontend/img/gallery/project-2.jpg')}}" alt="">
-                                 <a class="light" href="{{asset('frontend/img/gallery/project-2.jpg')}}"><img src="img/gallery/icon.png" alt=""></a>
+                                 <img class="img-fluid" src="{{asset('frontend/img/demo/backend-aksara/backend-aksara.png')}}" alt="">
+                                 <a class="light" href="{{asset('frontend/img/demo/backend-aksara/backend-aksara.png')}}"><img src="img/gallery/icon.png" alt=""></a>
                              </div>
                              <div class="g_item_text">
-                                 <h4>2D Vinyl Design</h4>
-                                 <p>Client Project</p>
+                                 <a href="https://github.com/nandaiqbalh/aksara-book-store"><h4>Backend Website</h4></a>
+                                 <p>Learning Project | Still on development</p>
+                                 <p><a href="https://github.com/nandaiqbalh/earth-weather">Visit Github Page</a></p>
+
                              </div>
                          </div>
                      </div>
-                     <div class="col-lg-4 col-md-4 col-sm-6 uiux">
+                     <!-- <div class="col-lg-4 col-md-4 col-sm-6 uiux">
                          <div class="h_gallery_item">
                              <div class="g_img_item">
                                  <img class="img-fluid" src="{{asset('frontend/img/gallery/project-3.jpg')}}" alt="">
@@ -186,7 +200,7 @@
                                  <p>Client Project</p>
                              </div>
                          </div>
-                     </div> --}}
+                     </div> -->
              </div>
          </section>
          <!--================End Home Gallery Area =================-->

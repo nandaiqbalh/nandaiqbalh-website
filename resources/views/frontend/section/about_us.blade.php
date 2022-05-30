@@ -1,7 +1,7 @@
 @extends('frontend.frontend_master')
 
 @section('main_content')
-     <!--================Home Banner Area =================-->
+
                <!--================Home Banner Area =================-->
                <section class="home_banner_area">
                 <div class="container box_1620">
