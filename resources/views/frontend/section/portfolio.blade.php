@@ -47,8 +47,8 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mobile">
                         <div class="h_gallery_item">
                             <div class="g_img_item">
-                                <img class="img-fluid" src="{{asset('frontend/img/demo/android-curious-minds/curious-minds.gif')}}" alt="">
-                                <a class="light" href="{{asset('frontend/img/demo/android-curious-minds/curious-minds.gif')}}"><img src="{{asset('frontend/img/demo/android-curious-minds/curious-minds.gif')}}" alt=""></a>
+                                <img class="img-fluid" src="{{asset('frontend/img/demo/android-curious-minds/demo.gif')}}" alt="">
+                                <a class="light" href="{{asset('frontend/img/demo/android-curious-minds/demo.gif')}}"><img src="{{asset('frontend/img/demo/android-curious-minds/demo.gif')}}" alt=""></a>
                             </div>
                             <div class="g_item_text">
                                 <h4>Curious Minds Book Store</h4>
