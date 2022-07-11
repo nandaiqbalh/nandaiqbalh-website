@@ -25,7 +25,7 @@
                                     <ul class="list personal_social">
                                        <li><a href="https://github.com/nandaiqbalh"><i class="fa fa-github"></i></a></li>
                                        <li><a href="https://www.linkedin.com/in/nanda-iqbal-hanafi-b2a4031bb/"><i class="fa fa-linkedin"></i></a></li>
-                                       <li><a href="https://medium.com/@nandaiqbalh/"><i class="fa fa-medium"></i></a></li> 
+                                       <li><a href="https://medium.com/@nandaiqbalh/"><i class="fa fa-medium"></i></a></li>
                                        <li><a href="https://www.instagram.com/nandaiqbalh/"><i class="fa fa-instagram"></i></a></li>
                                         <li class="ftco-animate"><a href="mailto:nandaiqbalhanafii@gmail.com"><span class="fa fa-paper-plane"></span></a></li>
 
@@ -38,12 +38,12 @@
              </div>
          </section>
          <!--================End Home Banner Area =================-->
-         
+
          <!--================Welcome Area =================-->
          <section class="welcome_area p_120">
              <div class="container">
                  <div class="row welcome_inner">
-                     <div class="col-lg-6">
+                     <div class="col-lg-12">
                         <div class="welcome_text">
                             <h4>About Myself</h4>
                             <p>A Software Development Enthusiast who likes to explore things || Lifelong Learner ^^
@@ -70,7 +70,7 @@
                             </div>
                         </div>
                      </div>
-                     <div class="col-lg-6">
+                     {{-- <div class="col-lg-6">
                          <div class="tools_expert">
                              <div class="row progress-circle mb-5">
                                 <div class="col-lg-4 mb-5">
@@ -80,10 +80,10 @@
                                             <center>
                                                 <img src="https://i.ibb.co/XSWGL1n/logo-java.png" alt="Java icon" title="Java" class="vscode-icon h-[35px] lg:h-[45px]">
                                             </center>
-                                        </div>    
+                                        </div>
                                     </div>
                                 </div>
-                    
+
                                 <div class="col-lg-4 mb-5">
                                     <div class="bg-white rounded-lg shadow p-4">
                                         <h2 class="h4 font-weight-bold text-center mb-4">PHP</h2>
@@ -91,10 +91,10 @@
                                             <center>
                                                 <img src="https://i.ibb.co/rmpTcvb/logo-php.png" alt="PHP icon" title="PHP" class="vscode-icon h-[35px] lg:h-[45px]">
                                             </center>
-                                        </div>    
+                                        </div>
                                     </div>
                                 </div>
-                    
+
                                 <div class="col-lg-4 mb-5">
                                     <div class="bg-white rounded-lg shadow p-4">
                                         <h2 class="h4 font-weight-bold text-center mb-4">Laravel</h2>
@@ -102,10 +102,10 @@
                                             <center>
                                                 <img src="https://i.ibb.co/hY4L9bH/logo-laravel.png" alt="Laravel icon" title="Laravel" class="vscode-icon h-[35px] lg:h-[45px]">
                                             </center>
-                                        </div>    
+                                        </div>
                                     </div>
                                 </div>
-                    
+
                                 <div class="col-lg-4 mb-5">
                                     <div class="bg-white rounded-lg shadow p-4">
                                         <h2 class="h4 font-weight-bold text-center mb-4">MySQL</h2>
@@ -113,10 +113,10 @@
                                             <center>
                                                 <img src="https://i.ibb.co/vvYQyTr/logo-mysql.png" alt="MySql icon" title="MySQL" class="vscode-icon h-[35px] lg:h-[45px]">
                                             </center>
-                                        </div>    
+                                        </div>
                                     </div>
                                 </div>
-                    
+
                                 <div class="col-lg-4 mb-5">
                                     <div class="bg-white rounded-lg shadow p-4">
                                         <h2 class="h4 font-weight-bold text-center mb-4">Anstud</h2>
@@ -124,10 +124,10 @@
                                             <center>
                                                 <img src="https://i.ibb.co/PYCNLwR/logo-android-studio.png" alt="Android Studio Icon" title="Android Studio" class="vscode-icon h-[35px] lg:h-[45px]">
                                             </center>
-                                        </div>    
+                                        </div>
                                     </div>
                                 </div>
-                                
+
                                 <div class="col-lg-4 mb-5">
                                     <div class="bg-white rounded-lg shadow p-4">
                                         <h2 class="h4 font-weight-bold text-center mb-4">VS Code</h2>
@@ -135,15 +135,15 @@
                                             <center>
                                                 <img src="https://i.ibb.co/dpqhjvR/logos-vscode.png" alt="VS code icon" title="Visual Studio Code" class="vscode-icon h-[35px] lg:h-[45px]">
                                             </center>
-                                        </div>    
+                                        </div>
                                     </div>
                                 </div>
                              </div>
                          </div>
-                     </div>
+                     </div> --}}
                  </div>
              </div>
          </section>
          <!--================End Welcome Area =================-->
-    
+
 @endsection

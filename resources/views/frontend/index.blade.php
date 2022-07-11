@@ -24,10 +24,10 @@
                                      <ul class="list personal_social">
                                         <li><a href="https://github.com/nandaiqbalh"><i class="fa fa-github"></i></a></li>
                                         <li><a href="https://www.linkedin.com/in/nanda-iqbal-hanafi-b2a4031bb/"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="https://medium.com/@nandaiqbalh/"><i class="fa fa-medium"></i></a></li> 
+                                        <li><a href="https://medium.com/@nandaiqbalh/"><i class="fa fa-medium"></i></a></li>
                                         <li><a href="https://www.instagram.com/nandaiqbalh/"><i class="fa fa-instagram"></i></a></li>
                                         <li class="ftco-animate"><a href="mailto:nandaiqbalhanafii@gmail.com"><span class="fa fa-paper-plane"></span></a></li>
- 
+
                                     </ul>
                                  </div>
                              </div>
@@ -37,7 +37,7 @@
              </div>
          </section>
          <!--================End Home Banner Area =================-->
-         
+
          <!--================Welcome Area =================-->
          <section class="welcome_area p_120">
              <div class="container">
@@ -73,11 +73,11 @@
              </div>
          </section>
          <!--================End Welcome Area =================-->
-         
+
          <!--================My Tabs Area =================-->
-         
+
          <!--================End My Tabs Area =================-->
-         
+
          <!--================Feature Area =================-->
          {{-- <section class="feature_area p_120">
              <div class="container">
@@ -111,7 +111,7 @@
              </div>
          </section> --}}
          <!--================End Feature Area =================-->
-         
+
          <!--================Home Gallery Area =================-->
          <section class="home_gallery_area p_120">
              <div class="container">
@@ -153,7 +153,7 @@
                                 <p><a href="https://github.com/nandaiqbalh/earth-weather">Visit Github Page</a></p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 mobile">
                         <div class="h_gallery_item">
                             <div class="g_img_item">
@@ -165,16 +165,28 @@
                                 <p><a href="https://github.com/nandaiqbalh/book-store-tugas-ppb">Visit Github Page</a></p>
                             </div>
                         </div>
-                    </div>   
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 mobile">
+                        <div class="h_gallery_item">
+                            <div class="g_img_item">
+                                <img class="img-fluid" src="{{asset('frontend/img/demo/aksara-library-mobile/demo.gif')}}" alt="">
+                                <a class="light" href="{{asset('frontend/img/demo/aksara-library-mobile/demo.gif')}}"><img src="{{asset('frontend/img/demo/aksara-library-mobile/demo.gif')}}" alt=""></a>
+                            </div>
+                            <div class="g_item_text">
+                                <h4>Aksara Library</h4>
+                                <p><a href="https://github.com/nandaiqbalh/aksara-library-app-dicoding-submission">Visit Github Page</a></p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 uiux">
                         <div class="h_gallery_item">
-                                <iframe width="360" height="640" src="https://xd.adobe.com/embed/a24f7956-7daa-480a-8dfe-b3405ee2241b-f71c/" frameborder="0" allowfullscreen></iframe>                            
+                                <iframe width="360" height="640" src="https://xd.adobe.com/embed/a24f7956-7daa-480a-8dfe-b3405ee2241b-f71c/" frameborder="0" allowfullscreen></iframe>
                             <div class="g_item_text">
                                 <h4><a href="https://xd.adobe.com/view/a24f7956-7daa-480a-8dfe-b3405ee2241b-f71c/">NontonMovie</a></h4>
                                 <p>You can do this UI/UX Design simulation.</p>
                             </div>
                         </div>
-                    </div>  
+                    </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 website">
                          <div class="h_gallery_item">
                              <div class="g_img_item">
@@ -204,7 +216,7 @@
              </div>
          </section>
          <!--================End Home Gallery Area =================-->
-         
+
          <!--================Testimonials Area =================-->
          {{-- <section class="testimonials_area p_120">
              <div class="container">
